@@ -1,0 +1,194 @@
+{
+  "3": {
+    "took": 246,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 3810,
+        "relation": "eq"
+      },
+      "max_score": 1.8186865,
+      "hits": [
+        {
+          "_index": "eval",
+          "_id": "onT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "767",
+            "Age": "33",
+            "Title": "",
+            "Review Text": "Absolutely wonderful - silky and sexy and comfortable",
+            "Rating": "4",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "0",
+            "Division Name": "Initmates",
+            "Department Name": "Intimate",
+            "Class Name": "Intimates"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "o3T1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_ignored": [
+            "Review Text.keyword"
+          ],
+          "_source": {
+            "Clothing ID": "1080",
+            "Age": "34",
+            "Title": "",
+            "Review Text": "Love this dress!  it's sooo pretty.  i happened to find it in a store, and i'm glad i did bc i never would have ordered it online bc it's petite.  i bought a petite and am 5'8\".  i love the length on me- hits just a little below the knee.  would definitely be a true midi on someone who is truly petite.",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "4",
+            "Division Name": "General",
+            "Department Name": "Dresses",
+            "Class Name": "Dresses"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "rXT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "1095",
+            "Age": "39",
+            "Title": "",
+            "Review Text": "This dress is perfection! so pretty and flattering.",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "2",
+            "Division Name": "General Petite",
+            "Department Name": "Dresses",
+            "Class Name": "Dresses"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "wHT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "1060",
+            "Age": "33",
+            "Title": "",
+            "Review Text": "Beautifully made pants and on trend with the flared crop. so much cuter in person. love these!",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "0",
+            "Division Name": "General Petite",
+            "Department Name": "Bottoms",
+            "Class Name": "Pants"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "xnT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "1002",
+            "Age": "29",
+            "Title": "",
+            "Review Text": "This is a comfortable skirt that can span seasons easily. while not the most exciting design, it is a good work skirt that can be paired with many tops.",
+            "Rating": "4",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "5",
+            "Division Name": "General",
+            "Department Name": "Bottoms",
+            "Class Name": "Skirts"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "yHT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "684",
+            "Age": "36",
+            "Title": "",
+            "Review Text": "Super cute and comfy pull over. sizing is accurate. material has a little bit of stretch.",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "2",
+            "Division Name": "Initmates",
+            "Department Name": "Intimate",
+            "Class Name": "Lounge"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "yXT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "862",
+            "Age": "59",
+            "Title": "",
+            "Review Text": "Great casual top with flare. looks cute with grey pilcro stet jeans. flattering with peplum in back. nice cut for shoulders and neckline.",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "0",
+            "Division Name": "General",
+            "Department Name": "Tops",
+            "Class Name": "Knits"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "ynT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "862",
+            "Age": "47",
+            "Title": "",
+            "Review Text": "Pretty and unique. great with jeans or i have worn it to work with slacks and heels. the colors, print, and embroidery are lovely. reasonably priced!",
+            "Rating": "4",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "1",
+            "Division Name": "General",
+            "Department Name": "Tops",
+            "Class Name": "Knits"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "y3T1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "862",
+            "Age": "40",
+            "Title": "",
+            "Review Text": "This is a beautiful top. it's unique and not so ordinary. i bought my usual medium and i found that it fits tight across my chest. although i had a baby this year and i am nursing, so that could be why. if i bought again i would size up.",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "0",
+            "Division Name": "General",
+            "Department Name": "Tops",
+            "Class Name": "Knits"
+          }
+        },
+        {
+          "_index": "eval",
+          "_id": "0HT1nZ4Bul2FxN-1iCop",
+          "_score": 1.8186865,
+          "_source": {
+            "Clothing ID": "862",
+            "Age": "40",
+            "Title": "",
+            "Review Text": "I love this top. i wear it all the time.  the problem is that you can tell i wear it all the time as the fabric has started to fade.  i'd still recommend it as it is so comfortable.",
+            "Rating": "5",
+            "Recommended IND": "1",
+            "Positive Feedback Count": "0",
+            "Division Name": "General",
+            "Department Name": "Tops",
+            "Class Name": "Knits"
+          }
+        }
+      ]
+    }
+  }
+}

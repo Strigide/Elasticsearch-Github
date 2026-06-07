@@ -1,0 +1,98 @@
+{
+  "5-4": {
+    "took": 28,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 1838,
+        "relation": "eq"
+      },
+      "max_score": null,
+      "hits": []
+    },
+    "aggregations": {
+      "by_product": {
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 1416,
+        "buckets": [
+          {
+            "key": 1078,
+            "doc_count": 70,
+            "avg_rating": {
+              "value": 2.9571428571428573
+            }
+          },
+          {
+            "key": 1094,
+            "doc_count": 60,
+            "avg_rating": {
+              "value": 2.9
+            }
+          },
+          {
+            "key": 862,
+            "doc_count": 59,
+            "avg_rating": {
+              "value": 2.5084745762711864
+            }
+          },
+          {
+            "key": 1081,
+            "doc_count": 41,
+            "avg_rating": {
+              "value": 2.8780487804878048
+            }
+          },
+          {
+            "key": 1110,
+            "doc_count": 35,
+            "avg_rating": {
+              "value": 3.1142857142857143
+            }
+          },
+          {
+            "key": 1077,
+            "doc_count": 33,
+            "avg_rating": {
+              "value": 2.8484848484848486
+            }
+          },
+          {
+            "key": 829,
+            "doc_count": 31,
+            "avg_rating": {
+              "value": 2.903225806451613
+            }
+          },
+          {
+            "key": 872,
+            "doc_count": 31,
+            "avg_rating": {
+              "value": 2.935483870967742
+            }
+          },
+          {
+            "key": 895,
+            "doc_count": 31,
+            "avg_rating": {
+              "value": 3.0
+            }
+          },
+          {
+            "key": 1080,
+            "doc_count": 31,
+            "avg_rating": {
+              "value": 2.7096774193548385
+            }
+          }
+        ]
+      }
+    }
+  }
+}

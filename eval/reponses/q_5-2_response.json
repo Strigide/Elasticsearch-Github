@@ -1,0 +1,88 @@
+{
+  "5-2": {
+    "took": 1,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 842,
+        "relation": "eq"
+      },
+      "max_score": null,
+      "hits": []
+    },
+    "aggregations": {
+      "significant_text": {
+        "doc_count": 842,
+        "bg_count": 23486,
+        "buckets": [
+          {
+            "key": "cheap",
+            "doc_count": 79,
+            "score": 0.5752596673766318,
+            "bg_count": 309
+          },
+          {
+            "key": "disappointed",
+            "doc_count": 102,
+            "score": 0.4741197935085196,
+            "bg_count": 579
+          },
+          {
+            "key": "terrible",
+            "doc_count": 33,
+            "score": 0.3616468537189476,
+            "bg_count": 90
+          },
+          {
+            "key": "awful",
+            "doc_count": 31,
+            "score": 0.3467401237019664,
+            "bg_count": 83
+          },
+          {
+            "key": "was",
+            "doc_count": 440,
+            "score": 0.2975661428005514,
+            "bg_count": 7820
+          },
+          {
+            "key": "poor",
+            "doc_count": 33,
+            "score": 0.29177579130970216,
+            "bg_count": 109
+          },
+          {
+            "key": "worst",
+            "doc_count": 17,
+            "score": 0.27899010034359994,
+            "bg_count": 32
+          },
+          {
+            "key": "unflattering",
+            "doc_count": 53,
+            "score": 0.22249737913609224,
+            "bg_count": 326
+          },
+          {
+            "key": "returned",
+            "doc_count": 68,
+            "score": 0.21667723224529511,
+            "bg_count": 515
+          },
+          {
+            "key": "looked",
+            "doc_count": 112,
+            "score": 0.21269696230653767,
+            "bg_count": 1202
+          }
+        ]
+      }
+    }
+  }
+}

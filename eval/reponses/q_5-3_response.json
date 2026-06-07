@@ -1,0 +1,128 @@
+{
+  "5-3": {
+    "took": 76,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 10000,
+        "relation": "gte"
+      },
+      "max_score": null,
+      "hits": []
+    },
+    "aggregations": {
+      "by_product": {
+        "doc_count_error_upper_bound": -1,
+        "sum_other_doc_count": 17594,
+        "buckets": [
+          {
+            "key": 1078,
+            "doc_count": 1024,
+            "avg_rating": {
+              "value": 4.2041015625
+            },
+            "total_recommendations": {
+              "value": 841.0
+            }
+          },
+          {
+            "key": 862,
+            "doc_count": 806,
+            "avg_rating": {
+              "value": 4.200992555831266
+            },
+            "total_recommendations": {
+              "value": 661.0
+            }
+          },
+          {
+            "key": 1094,
+            "doc_count": 756,
+            "avg_rating": {
+              "value": 4.189153439153439
+            },
+            "total_recommendations": {
+              "value": 621.0
+            }
+          },
+          {
+            "key": 1081,
+            "doc_count": 582,
+            "avg_rating": {
+              "value": 4.281786941580756
+            },
+            "total_recommendations": {
+              "value": 494.0
+            }
+          },
+          {
+            "key": 872,
+            "doc_count": 545,
+            "avg_rating": {
+              "value": 4.38348623853211
+            },
+            "total_recommendations": {
+              "value": 478.0
+            }
+          },
+          {
+            "key": 829,
+            "doc_count": 527,
+            "avg_rating": {
+              "value": 4.193548387096774
+            },
+            "total_recommendations": {
+              "value": 436.0
+            }
+          },
+          {
+            "key": 1110,
+            "doc_count": 480,
+            "avg_rating": {
+              "value": 4.28125
+            },
+            "total_recommendations": {
+              "value": 403.0
+            }
+          },
+          {
+            "key": 895,
+            "doc_count": 404,
+            "avg_rating": {
+              "value": 4.2995049504950495
+            },
+            "total_recommendations": {
+              "value": 341.0
+            }
+          },
+          {
+            "key": 868,
+            "doc_count": 430,
+            "avg_rating": {
+              "value": 3.9465116279069767
+            },
+            "total_recommendations": {
+              "value": 325.0
+            }
+          },
+          {
+            "key": 850,
+            "doc_count": 338,
+            "avg_rating": {
+              "value": 4.3076923076923075
+            },
+            "total_recommendations": {
+              "value": 294.0
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "5-1": {
+    "took": 2285,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 10000,
+        "relation": "gte"
+      },
+      "max_score": null,
+      "hits": []
+    },
+    "aggregations": {
+      "significant_text": {
+        "doc_count": 13131,
+        "bg_count": 23486,
+        "buckets": [
+          {
+            "key": "love",
+            "doc_count": 5041,
+            "score": 0.08258995697363407,
+            "bg_count": 7420
+          },
+          {
+            "key": "perfect",
+            "doc_count": 2625,
+            "score": 0.07769614042996688,
+            "bg_count": 3381
+          },
+          {
+            "key": "comfortable",
+            "doc_count": 2140,
+            "score": 0.04841072686490843,
+            "bg_count": 2951
+          },
+          {
+            "key": "great",
+            "doc_count": 3438,
+            "score": 0.047970462192160744,
+            "bg_count": 5197
+          },
+          {
+            "key": "with",
+            "doc_count": 5719,
+            "score": 0.044020226445122844,
+            "bg_count": 9290
+          },
+          {
+            "key": "fits",
+            "doc_count": 1893,
+            "score": 0.037154791369903066,
+            "bg_count": 2692
+          },
+          {
+            "key": "soft",
+            "doc_count": 2177,
+            "score": 0.0370848726520255,
+            "bg_count": 3182
+          },
+          {
+            "key": "perfectly",
+            "doc_count": 1095,
+            "score": 0.03504383043226282,
+            "bg_count": 1379
+          },
+          {
+            "key": "can",
+            "doc_count": 1963,
+            "score": 0.0321861799801735,
+            "bg_count": 2889
+          },
+          {
+            "key": "jeans",
+            "doc_count": 1442,
+            "score": 0.031800075002684836,
+            "bg_count": 2000
+          }
+        ]
+      }
+    }
+  }
+}
