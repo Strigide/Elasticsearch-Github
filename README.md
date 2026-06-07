@@ -9,7 +9,7 @@ J'ai écrit mon raisonnement pour les questions statistiques subtiles à plusieu
 
 Le jeu de données s'appelle "Womens_Clothing.csv" et est disponible dans les fichiers de ce repository.
 
-Le cluster est configuré pour être sur 3 noeuds. L'index est sur 2 shards et 1 replica.
+Le cluster est configuré pour être sur 3 noeuds. L'index est sur 1 shards et 1 replica.
 
 ## Description du jeu de données
 
